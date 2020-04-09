@@ -1,0 +1,27 @@
+nav{
+    background-color: goldenrod;
+    color: cornsilk;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+nav img{
+    padding: 5px;
+    height: 65px;
+    width: 65px;
+    margin: auto 10px;
+}
+nav p{
+    margin: 0;
+}
+
+#componentCalculadora{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:70%;
+    height:70vh;
+    border-radius: 7px;
+    margin: 40px auto;
+    position: relative;
+}
